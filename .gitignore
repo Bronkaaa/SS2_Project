@@ -1,0 +1,17 @@
+# Ignoriere Videos
+*.avi
+
+# Ignoriere alle CSV-Dateien
+*.csv
+
+# Ignoriere alle Log-Dateien
+*.log
+
+# Ignoriere den node_modules Ordner (für Node.js-Projekte)
+node_modules/
+
+# Ignoriere Python-Bytecode-Dateien
+*.pyc
+
+
+*.pth
